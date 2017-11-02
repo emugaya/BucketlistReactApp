@@ -1,0 +1,12 @@
+.fa-bitbucket, .fa-user-circle-o, .fa-sign-in { color: #fafafa !important; }
+
+.bg-custom-color {
+    background-color: #1B926C;
+}
+
+.navbar-brand{
+    font-family: 'Saira Semi Condensed', sans-serif !important;
+    color: #fafafa !important;
+    line-height: 1.1;
+    color: inherit;
+}

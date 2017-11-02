@@ -1,0 +1,11 @@
+html{
+  height:100vh;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #fafafa !important;
+  font-family: 'Saira Semi Condensed', sans-serif !important;
+  height: 100vh;
+}

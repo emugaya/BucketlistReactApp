@@ -1,0 +1,68 @@
+.auth {
+
+}
+#auth-background {
+    background: linear-gradient(#1B926C 40%,#fafafa 0%);
+    background-color: #1B926C !important;
+    background-position: 50px, 0;
+    height: 100vh;
+    text-align: center !important;
+	
+}
+/* #card-size {
+    width: 20rem;
+} */
+.card-block{
+    text-align: center;
+    margin-top: 15px;
+    padding: 2px;
+}
+#auth-form{
+    width: 70%;
+    align-self: center;
+    margin-left:15%;
+}
+.card-title{
+    color: #868e96;
+}
+.card-text{
+    text-align: center;
+    margin: 12px;
+    width: 90%;
+}
+hr{
+    width: 60%;
+}
+
+.btn-primary{
+    color: #fafafa;
+    background: #1B926C;
+    border: 0px;
+    width: 70%;
+}
+.btn-primary:hover {
+    background: #1B926C;
+}
+.card{
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid;
+    border-color: #d4d4d4;
+    background-color: #fafafa;
+    color: #868e96;
+    width: 20rem;
+    box-shadow: 0 0 3px #ccc;
+}
+a:hover, a:link{
+    color: #1B926C;
+}
+
+a{
+    color: #1B926C;
+}
+.test{
+    margin-left:auto;
+    margin-right: auto;
+    padding-top: 7.5em;
+
+}
